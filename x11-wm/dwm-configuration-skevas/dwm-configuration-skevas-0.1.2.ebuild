@@ -5,7 +5,7 @@ EAPI=8
 
 DESCRIPTION="Create config and patch files"
 HOMEPAGE=""
-SRC_URI="http://localhost:8000/dwm-configuration-skevas-0.1.1.tgz"
+SRC_URI="http://localhost:8000/dwm-configuration-skevas-0.1.2.tgz"
 
 LICENSE=""
 SLOT="0"
